@@ -1,0 +1,5 @@
+create_table 1
+wc_files tests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt
+remove_block 0
+wc_files tests/test10.txt
+remove_block 0
