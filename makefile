@@ -28,7 +28,7 @@ clean:
 	@rm -rf *.o *.so *.a main
 
 clean_raport:
-	@rm -f raport*.txt
+	@rm -f $(FILENAME)
 
 run_test:
 	@echo "test 1: \n" >> $(FILENAME)
