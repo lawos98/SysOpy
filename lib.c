@@ -13,11 +13,13 @@ struct ArrayOfBlocks* createArrayOfBlocks(int numberBlocks){
 };
 
 void wcFiles(char* files){
-    char command[14+strlen(files)];
+    char command[15+strlen(files)];
     strcpy(command,"wc ");
     strcat(command,files);
-    strcat(command," > temp.txt");
-    system(command);
+    strcat(command," >> temp.txt");
+    if(system(command)==-1){
+        printf("error");
+    };
 };
 
 int createBlock(struct ArrayOfBlocks* array){
@@ -25,6 +27,7 @@ int createBlock(struct ArrayOfBlocks* array){
     int lines,words,chars;
     char* fName=NULL;
     while(fscanf(file,"%d %d %d %s",&lines,&words,&chars,fName)==4);
+
 
     struct Block* block= calloc(1,sizeof(struct Block));
     block->numLines=lines;
@@ -34,6 +37,9 @@ int createBlock(struct ArrayOfBlocks* array){
     array->blocks[array->maxBlockIndex]=block;
 
     fclose(file);
+    if(system("rm -f temp.txt")==-1){
+        printf("error with remove temp");
+    };
     return array->maxBlockIndex;
 
 };

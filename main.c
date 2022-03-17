@@ -1,11 +1,14 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
+#include <sys/times.h>
+#include <unistd.h>
 #include "lib.h"
 
-#include <sys/times.h>
-#include <time.h>
-#include <unistd.h>
+#ifdef DYNAMIC
+    #include <dlfcn.h>
+#endif
+
 
 clock_t startTime,endTime;
 struct tms timerStartTms,timerEndTms;
@@ -16,15 +19,10 @@ void endTimer(){
     endTime=times(&timerEndTms);
 }
 void printToFile(char command[]){
-    FILE* file= fopen("raport2.txt","a");
-    if(file==NULL){
-        system("touch raport2.txt");
-        file=fopen("raport2.txt","a");
-    }
     double realTime=(double)(endTime-startTime)/sysconf(_SC_CLK_TCK);
     double userTime=(double)(timerEndTms.tms_cutime-timerStartTms.tms_cutime)/sysconf(_SC_CLK_TCK);
     double sysTime=(double)(timerEndTms.tms_cstime-timerStartTms.tms_cstime)/sysconf(_SC_CLK_TCK);
-    fprintf(file,"command: %25s\trealTime: %f;userTime: %f;sysTime: %f \n",command,realTime,userTime,sysTime);
+    printf("realTime: %f;userTime: %f;sysTime: %f;command: %s \n",realTime,userTime,sysTime,command);
 
 }
 
@@ -40,16 +38,27 @@ int countArgs(int startIndex,int argc,char** argv){
 }
 
 int main(int argc,char** argv) {
+    #ifdef DYNAMIC
+        void *handle =dlopen("./liblib.so",RTLD_LAZY);
+        struct ArrayOfBlocks* (*createArrayOfBlocks)(int)=dlsym(handle,"createArrayOfBlocks");
+        void (*wcFiles)(char*)=dlsym(handle,"wcFiles");
+        int (*createBlock)(struct ArrayOfBlocks*)=dlsym(handle,"createBlock");
+        void (*removeBlock)(struct ArrayOfBlocks*,int)=dlsym(handle,"removeBlock");
+    #endif
     struct ArrayOfBlocks* array=NULL;
     for(int i=1;i<argc;i++){
         if(strcmp(argv[i],"create_table")==0){
             int numArgs=countArgs(i,argc,argv);
             if(numArgs!=1){
                 printf("Incorrect number of arguments to create_table\n");
-                exit(0);
+                exit(100);
             }
             i+=1;
             if(array==NULL){
+                if(atoi(argv[i])<=0){
+                    printf("No positive number of size table\n");
+                    exit(101);
+                }
                 startTimer();
                 array= createArrayOfBlocks(atoi(argv[i]));
                 endTimer();
@@ -60,18 +69,18 @@ int main(int argc,char** argv) {
             }
             else{
                 printf("Table has already been created \n");
-                exit(0);
+                exit(102);
             }
         }
         else if(strcmp(argv[i],"wc_files")==0){
             if(array==NULL){
                 printf("Table has not yet been created \n");
-                exit(0);
+                exit(200);
             }
             int fileCount=countArgs(i,argc,argv);
             if(fileCount<1){
                 printf("Incorrect number of arguments to wc_files\n");
-                exit(0);
+                exit(201);
             }
             int charCount=0;
             for(int index=1;index<=fileCount;index++){
@@ -98,11 +107,15 @@ int main(int argc,char** argv) {
         else if(strcmp(argv[i],"remove_block")==0){
             if(array==NULL){
                 printf("Table has not yet been created \n");
-                exit(0);
+                exit(300);
             }
             if(countArgs(i,argc,argv)!=1){
                 printf("Incorrect number of arguments to remove_block\n");
-                exit(0);
+                exit(301);
+            }
+            if(atoi(argv[i])<0 || atoi(argv[i])>=array->numBlocks){
+                printf("Incorrect number of index to remove_block\n");
+                exit(302);
             }
             i+=1;
             startTimer();
@@ -112,9 +125,11 @@ int main(int argc,char** argv) {
             char* command=calloc(20+strlen(argv[i]),sizeof(char));
             strcpy(command,"remove block at ");
             strcat(command,argv[i]);
-            printf("%s",command);
             printToFile(command);
         }
     }
+#ifdef DYNAMIC
+    dlclose(handle);
+#endif
     return 0;
 }
