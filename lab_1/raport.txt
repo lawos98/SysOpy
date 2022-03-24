@@ -1,0 +1,1320 @@
+static O0: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+static O1: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+static O2: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+static O3: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+shared O0: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+shared O1: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+shared O2: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+shared O3: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+dynamic O0: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+dynamic O1: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+dynamic O2: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+dynamic O3: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+static O0: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+static O1: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+static O2: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+static O3: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+shared O0: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+shared O1: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+shared O2: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+shared O3: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+dynamic O0: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+dynamic O1: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+dynamic O2: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.010000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+dynamic O3: 
+
+test 1: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 1 
+test 2: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 3 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test2.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test3.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test4.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test5.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test6.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test7.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test8.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 3: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 1 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt tests/test2.txt tests/test3.txt tests/test4.txt tests/test5.txt tests/test6.txt tests/test7.txt tests/test8.txt tests/test9.txt tests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test10.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 0 
+test 4: 
+
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: create array size of 10 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.010000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.010000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: remove block at 9 
+realTime: 0.000000;userTime: 0.000000;sysTime: 0.000000;command: wc filestests/test1.txt 

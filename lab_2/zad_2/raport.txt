@@ -1,0 +1,4 @@
+result: char 62928 | lines: 62928 realTime: 0.120000;userTime: 0.000000;sysTime: 0.000000
+result: char 62928 | lines: 62928 realTime: 3.590000;userTime: 0.000000;sysTime: 0.000000
+result: char 62928 | lines: 62928 realTime: 0.110000;userTime: 0.000000;sysTime: 0.000000
+result: char 62928 | lines: 62928 realTime: 3.470000;userTime: 0.000000;sysTime: 0.000000

@@ -1,0 +1,897 @@
+ <============================>
+File name: text1.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/text1.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948840 
+Last modification: 1647948788 
+<============================> 
+File name: text1.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/text1.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948870 
+Last modification: 1647948788 
+<============================> 
+File name: text1.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/1/text1.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948788 
+<============================> 
+File name: text1.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/1/test1/1/text1.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948788 
+<============================> 
+File name: 1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/1/test1/1Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: text3.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/1/test1/3/text3.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948817 
+<============================> 
+File name: 3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/1/test1/3Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: text2.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/1/test1/2/text2.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948799 
+<============================> 
+File name: 2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/1/test1/2Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: text.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/1/test1/text.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948769 
+<============================> 
+File name: test1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/1/test1Number of Nlinks: 5 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: 1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/1Number of Nlinks: 3 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: text3.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/text3.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948817 
+<============================> 
+File name: text1.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/1/text1.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948788 
+<============================> 
+File name: text1.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/1/test1/1/text1.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948788 
+<============================> 
+File name: 1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/1/test1/1Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: text3.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/1/test1/3/text3.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948817 
+<============================> 
+File name: 3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/1/test1/3Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: text2.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/1/test1/2/text2.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948799 
+<============================> 
+File name: 2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/1/test1/2Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: text.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/1/test1/text.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948769 
+<============================> 
+File name: test1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/1/test1Number of Nlinks: 5 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: 1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/1Number of Nlinks: 3 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: text3.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/3/text3.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948817 
+<============================> 
+File name: 3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/3Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948905 
+<============================> 
+File name: text2.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2/text2.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948799 
+<============================> 
+File name: text1.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2/test2/1/text1.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948788 
+<============================> 
+File name: text1.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2/test2/1/test1/1/text1.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948788 
+<============================> 
+File name: 1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2/test2/1/test1/1Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948905 
+<============================> 
+File name: text3.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2/test2/1/test1/3/text3.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948817 
+<============================> 
+File name: 3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2/test2/1/test1/3Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948905 
+<============================> 
+File name: text2.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2/test2/1/test1/2/text2.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948799 
+<============================> 
+File name: 2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2/test2/1/test1/2Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948905 
+<============================> 
+File name: text.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2/test2/1/test1/text.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948769 
+<============================> 
+File name: test1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2/test2/1/test1Number of Nlinks: 5 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948905 
+<============================> 
+File name: 1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2/test2/1Number of Nlinks: 3 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948905 
+<============================> 
+File name: text3.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2/test2/3/text3.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948817 
+<============================> 
+File name: 3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2/test2/3Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948905 
+<============================> 
+File name: text2.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2/test2/2/text2.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948799 
+<============================> 
+File name: 2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2/test2/2Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948905 
+<============================> 
+File name: text.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2/test2/text.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948769 
+<============================> 
+File name: test2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2/test2Number of Nlinks: 5 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948905 
+<============================> 
+File name: 2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/2Number of Nlinks: 3 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948905 
+<============================> 
+File name: text.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3/text.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948769 
+<============================> 
+File name: test3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3/test3Number of Nlinks: 5 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948905 
+<============================> 
+File name: 3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/3Number of Nlinks: 3 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948905 
+<============================> 
+File name: text2.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2/text2.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948799 
+<============================> 
+File name: text1.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2/test2/1/text1.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948788 
+<============================> 
+File name: text1.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2/test2/1/test1/1/text1.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948788 
+<============================> 
+File name: 1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2/test2/1/test1/1Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: text3.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2/test2/1/test1/3/text3.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948817 
+<============================> 
+File name: 3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2/test2/1/test1/3Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: text2.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2/test2/1/test1/2/text2.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948799 
+<============================> 
+File name: 2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2/test2/1/test1/2Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: text.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2/test2/1/test1/text.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948769 
+<============================> 
+File name: test1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2/test2/1/test1Number of Nlinks: 5 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: 1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2/test2/1Number of Nlinks: 3 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: text3.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2/test2/3/text3.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948817 
+<============================> 
+File name: 3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2/test2/3Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: text2.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2/test2/2/text2.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948799 
+<============================> 
+File name: 2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2/test2/2Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: text.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2/test2/text.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948769 
+<============================> 
+File name: test2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2/test2Number of Nlinks: 5 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: 2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/2Number of Nlinks: 3 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948904 
+<============================> 
+File name: text.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1/text.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647976010 
+Last modification: 1647948769 
+<============================> 
+File name: test1-1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1/test1-1Number of Nlinks: 5 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948905 
+<============================> 
+File name: 1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/1Number of Nlinks: 3 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948921 
+<============================> 
+File name: text3.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/3/text3.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948870 
+Last modification: 1647948817 
+<============================> 
+File name: 3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/3Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948840 
+<============================> 
+File name: text2.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/2/text2.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948870 
+Last modification: 1647948799 
+<============================> 
+File name: 2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/2Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948840 
+<============================> 
+File name: text.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1/text.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948870 
+Last modification: 1647948769 
+<============================> 
+File name: test1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1/test1Number of Nlinks: 5 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948840 
+<============================> 
+File name: 1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/1Number of Nlinks: 3 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948849 
+<============================> 
+File name: text3.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/text3.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948840 
+Last modification: 1647948817 
+<============================> 
+File name: text1.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/1/text1.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948904 
+Last modification: 1647948788 
+<============================> 
+File name: text1.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/1/test1/1/text1.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948904 
+Last modification: 1647948788 
+<============================> 
+File name: 1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/1/test1/1Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948886 
+<============================> 
+File name: text3.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/1/test1/3/text3.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948904 
+Last modification: 1647948817 
+<============================> 
+File name: 3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/1/test1/3Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948886 
+<============================> 
+File name: text2.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/1/test1/2/text2.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948904 
+Last modification: 1647948799 
+<============================> 
+File name: 2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/1/test1/2Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948886 
+<============================> 
+File name: text.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/1/test1/text.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948904 
+Last modification: 1647948769 
+<============================> 
+File name: test1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/1/test1Number of Nlinks: 5 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948886 
+<============================> 
+File name: 1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/1Number of Nlinks: 3 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948886 
+<============================> 
+File name: text3.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/3/text3.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948905 
+Last modification: 1647948817 
+<============================> 
+File name: 3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/3Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948886 
+<============================> 
+File name: text2.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2/text2.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948905 
+Last modification: 1647948799 
+<============================> 
+File name: text1.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2/test2/1/text1.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948905 
+Last modification: 1647948788 
+<============================> 
+File name: text1.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2/test2/1/test1/1/text1.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948905 
+Last modification: 1647948788 
+<============================> 
+File name: 1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2/test2/1/test1/1Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948886 
+<============================> 
+File name: text3.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2/test2/1/test1/3/text3.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948905 
+Last modification: 1647948817 
+<============================> 
+File name: 3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2/test2/1/test1/3Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948886 
+<============================> 
+File name: text2.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2/test2/1/test1/2/text2.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948905 
+Last modification: 1647948799 
+<============================> 
+File name: 2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2/test2/1/test1/2Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948886 
+<============================> 
+File name: text.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2/test2/1/test1/text.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948905 
+Last modification: 1647948769 
+<============================> 
+File name: test1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2/test2/1/test1Number of Nlinks: 5 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948886 
+<============================> 
+File name: 1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2/test2/1Number of Nlinks: 3 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948886 
+<============================> 
+File name: text3.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2/test2/3/text3.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948905 
+Last modification: 1647948817 
+<============================> 
+File name: 3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2/test2/3Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948886 
+<============================> 
+File name: text2.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2/test2/2/text2.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948905 
+Last modification: 1647948799 
+<============================> 
+File name: 2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2/test2/2Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948886 
+<============================> 
+File name: text.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2/test2/text.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948905 
+Last modification: 1647948769 
+<============================> 
+File name: test2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2/test2Number of Nlinks: 5 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948886 
+<============================> 
+File name: 2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/2Number of Nlinks: 3 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948886 
+<============================> 
+File name: text.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3/text.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948905 
+Last modification: 1647948769 
+<============================> 
+File name: test3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3/test3Number of Nlinks: 5 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948886 
+<============================> 
+File name: 3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/3Number of Nlinks: 3 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948892 
+<============================> 
+File name: text2.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2/text2.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948840 
+Last modification: 1647948799 
+<============================> 
+File name: text1.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2/test2/1/text1.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948886 
+Last modification: 1647948788 
+<============================> 
+File name: text1.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2/test2/1/test1/1/text1.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948886 
+Last modification: 1647948788 
+<============================> 
+File name: 1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2/test2/1/test1/1Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948870 
+<============================> 
+File name: text3.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2/test2/1/test1/3/text3.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948886 
+Last modification: 1647948817 
+<============================> 
+File name: 3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2/test2/1/test1/3Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948870 
+<============================> 
+File name: text2.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2/test2/1/test1/2/text2.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948886 
+Last modification: 1647948799 
+<============================> 
+File name: 2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2/test2/1/test1/2Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948870 
+<============================> 
+File name: text.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2/test2/1/test1/text.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948886 
+Last modification: 1647948769 
+<============================> 
+File name: test1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2/test2/1/test1Number of Nlinks: 5 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948870 
+<============================> 
+File name: 1 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2/test2/1Number of Nlinks: 3 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948870 
+<============================> 
+File name: text3.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2/test2/3/text3.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948886 
+Last modification: 1647948817 
+<============================> 
+File name: 3 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2/test2/3Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948870 
+<============================> 
+File name: text2.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2/test2/2/text2.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948886 
+Last modification: 1647948799 
+<============================> 
+File name: 2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2/test2/2Number of Nlinks: 2 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948870 
+<============================> 
+File name: text.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2/test2/text.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948886 
+Last modification: 1647948769 
+<============================> 
+File name: test2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2/test2Number of Nlinks: 5 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948870 
+<============================> 
+File name: 2 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/2Number of Nlinks: 3 
+File type: Dir 
+File size: 4096 
+Last acces: 1648117307 
+Last modification: 1647948875 
+<============================> 
+File name: text.txt 
+Path: /home/ubuntu/CLionProjects/SysOpy/lab_2/zad_3a/test/text.txtNumber of Nlinks: 1 
+File type: File 
+File size: 0 
+Last acces: 1647948840 
+Last modification: 1647948769 
+|============================| 
+fileCount: 64 
+dirCount: 63 
+charDevCount: 0 
+blockDevCount: 0 
+fifoCount: 0 
+slinkCount: 0 
+sockCount: 0 
