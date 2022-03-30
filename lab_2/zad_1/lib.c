@@ -5,6 +5,7 @@
 #include <sys/stat.h>
 #include <unistd.h>
 #include <fcntl.h>
+#include <ctype.h>
 
 void convertFileSys(char* inputFileName,char* outputFileName){
     int inputFile,outputFile;
