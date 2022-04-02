@@ -1,3 +1,4 @@
+<img align="center" src="assets/baner.gif">
 <h1 align="center">Operating systems</h1>
 
 
