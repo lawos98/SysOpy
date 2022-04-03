@@ -17,7 +17,7 @@ AGH WIET course to introduce principles of operating systems and methods of thei
 * [Memory management, libraries, time measurement](lab_1)
 * [Files](lab_2)
 * [Process creation. Process environment, process control](lab_3)
-* [Graphs](lab_4)
+* [Signals](lab_4)
 * [TODO](lab_5)
 * [TODO](lab_6)
 * [TODO](lab_7)
