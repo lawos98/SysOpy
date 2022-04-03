@@ -1,6 +1,4 @@
 <div align="center"><img src="assets/baner.gif"></div>
-<h1 align="center">Operating systems</h1>
-
 
 ## Description
 
