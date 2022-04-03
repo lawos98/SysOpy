@@ -1,4 +1,4 @@
-<div align="center"><img src="assets/baner.webm"></div>
+<div align="center"><img src="assets/baner.gif"></div>
 <h1 align="center">Operating systems</h1>
 
 
