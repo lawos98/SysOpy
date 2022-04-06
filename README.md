@@ -15,6 +15,7 @@ AGH WIET course to introduce principles of operating systems and methods of thei
 <img height="60" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 <img height="60" src="https://cdn.freebiesupply.com/logos/large/2x/unix-logo-png-transparent.png" />
 </p>
+
 ## List
 
 * [Memory management, libraries, time measurement](lab_1)
