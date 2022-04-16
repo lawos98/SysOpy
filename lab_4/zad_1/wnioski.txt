@@ -1,0 +1,8 @@
+EXEC
+-pending - sygnal oczekuje zarowno dla rodzica jak i execa
+-mask i ignore - exec nadpisal rodzica i sygnaly zostaly zignorowane
+
+FORK
+-handler - w obu procesach zostal wykonany handler
+-pending - tylko rodzic ma oczekujacy sygnal
+-mask i ignore - w obu procesach sygnal zostal zignorowany

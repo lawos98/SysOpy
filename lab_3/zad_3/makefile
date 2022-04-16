@@ -2,7 +2,7 @@ CC = gcc
 CFLAGS = -Wall -Werror -g
 FILENAME=raport.txt
 
-run:
+runz:
 	make clean
 	$(CC) $(CFLAGS)  -fPIC -shared lib.c -o liblib.so
 	$(CC) $(CFLAGS)  main.c -L. -Wl,-rpath=. -llib -o main
