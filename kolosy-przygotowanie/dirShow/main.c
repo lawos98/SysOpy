@@ -23,9 +23,9 @@ int main(int argc, char* argv[]) {
 
     if ((directory = opendir(directory_path)) != NULL) {
         while ((position = readdir(directory)) != NULL) {
-            if (strcmp(position->d_name, ".") != 0 &&
-                strcmp(position->d_name, "..") != 0)
+            if (strcmp(position->d_name, ".") != 0 &&strcmp(position->d_name, "..") != 0) {
                 printf("%s\n", position->d_name);
+            }
             if (errno != 0) {
                 perror("READDIR");
                 strerror(errno);
