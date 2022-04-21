@@ -1,0 +1,6 @@
+składnik0 = cat /etc/passwd | echo Hello | wc -c
+składnik1 = grep ^r | cut -b 1-5
+składnik2 = wc
+składnik3 = ps aux | wc -l
+
+składnik2 | składnik0
