@@ -1,5 +1,9 @@
 #include "const.h"
 
+int sharedMemoryId;
+int ovenId;
+int tableId;
+
 int createSharedMemory() {
     key_t key = ftok(getenv("HOME"), 'S');
     if (key < 0) {
@@ -12,24 +16,7 @@ int createSharedMemory() {
         printf("Error with shared memory\n");
         exit(1);
     }
-    union semun basic;
-    union semun put_o;
-    union semun put_t;
-    union semun take;
-    basic.val = 1;
-    put_o.val = OVEN_SIZE;
-    put_t.val = TABLE_SIZE;
-    take.val = 0;
-    if (semctl(sharedMemoryId, IN_OVEN, SETVAL, basic) < 0 ||
-        semctl(sharedMemoryId, TAKE_OUT_OVEN, SETVAL, take) < 0 ||
-        semctl(sharedMemoryId, PUT_IN_OVEN, SETVAL, put_o) < 0 ||
-        semctl(sharedMemoryId, ON_TABLE, SETVAL, basic) < 0 ||
-        semctl(sharedMemoryId, TAKE_OUT_TABLE, SETVAL, take) < 0 ||
-        semctl(sharedMemoryId, PUT_ON_TABLE, SETVAL, put_t) < 0
-        ){
-        printf("Error with SEMAPHORES values\n");
-        exit(1);
-    }
+
     return sharedMemoryId;
 }
 
@@ -67,10 +54,10 @@ int createTable() {
         exit(1);
     }
     int temp = tableId;
-    struct Oven *table = shmat(tableId, NULL, 0);
+    struct Table *table = shmat(tableId, NULL, 0);
     table->pizzasCount = 0;
     table->pizzaGoingOutside = 0;
-    table->pizzaGoingInside = 0;
+    table->pizzaGoingOn = 0;
     for (int i = 0; i < TABLE_SIZE; i++) {
         table->tab[i] = -1;
     }
@@ -81,12 +68,11 @@ int sharedMemoryId;
 int ovenId;
 int tableId;
 
-void handler(int signum) {
+void handler(int signum){
     semctl(sharedMemoryId, 0, IPC_RMID, NULL);
     shmctl(ovenId, IPC_RMID, NULL);
     shmctl(tableId, IPC_RMID, NULL);
 }
-
 
 int main(int argc, char **argv) {
     if (argc != 3) {
@@ -103,22 +89,19 @@ int main(int argc, char **argv) {
     for (int i = 0; i < atoi(argv[1]); i++) {
         pid_t pid = fork();
         if (pid == 0) {
-            execl("./cook", "./cook", NULL);
+            execl("./chef", "./chef", NULL);
         }
     }
 
     for (int i = 0; i < atoi(argv[2]); i++) {
         pid_t pid = fork();
         if (pid == 0) {
-            execl("./deliverer", "./deliverer", NULL);
-            printf("Return not expected, execl() error\n");
-
+            execl("./supplier", "./supplier", NULL);
         }
     }
 
     for (int i = 0; i < atoi(argv[2]) + atoi(argv[1]); i++)
         wait(NULL);
-
 
     return 0;
 }

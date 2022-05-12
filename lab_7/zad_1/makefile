@@ -7,7 +7,9 @@ prepare:
 	$(CC) $(FLAGS) main.c -o main
 
 clean:
-	rm -f chef,main,supplier
+	rm -f chef
+	rm -f main
+	rm -f supplier
 
 run:
 	make clean

@@ -7,27 +7,30 @@ int takeOutTable(struct Table* table){
     table->pizzasCount-=1;
     return type;
 }
-int main(){
+
+int main() {
     srand(getpid());
 
-    int sharedMemoryId=getSharedMemoryID();
-    int tableId=getTableID();
+    sem_t* onTableSem =getSharedMemoryID(ON_TABLE);
+    sem_t* putOnTableSem = getSharedMemoryID(PUT_ON_TABLE);
+    sem_t* takeOutTableSem = getSharedMemoryID(TAKE_OUT_TABLE);
 
-    struct Table* table=shmat(tableId,NULL,0);
+    int tableID = getTableID();
 
-    while(1){
-        lock(sharedMemoryId,TAKE_OUT_TABLE);
-        lock(sharedMemoryId,ON_TABLE);
+    struct Table* table = mmap(NULL, sizeof(struct Table), PROT_READ | PROT_WRITE, MAP_SHARED, tableID, 0);
+
+    while (1) {
+        lock(takeOutTableSem);
+        lock(onTableSem);
         int type=takeOutTable(table);
         printf("Time: %s Supplier[pid:%d] take out pizza %d from table\n\n",getTime(),getpid(),type);
-        unlock(sharedMemoryId,PUT_ON_TABLE);
-        unlock(sharedMemoryId,ON_TABLE);
+        unlock(putOnTableSem);
+        unlock(onTableSem);
 
         sleep(DELIVERY_TIME);
         printf("Time: %s Supplier[pid:%d] delivery pizza %d\n\n",getTime(),getpid(),type);
 
         sleep(RETURN_TIME);
         printf("Time: %s Supplier[pid:%d] return after delivery pizza %d\n\n",getTime(),getpid(),type);
-
     }
 }

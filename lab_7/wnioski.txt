@@ -1,0 +1,2 @@
+Semafory pozwalaja na modyfikacje pamięci dzielonej procesowi, bez ich wykorzystania używanie dzielonej pamięci byłoby problematyczne, na przyklad wiele procesow moglo jednoszesnie modyfikowac dane, co moze powodowac niezamiezowe bledy.
+Niezależnie od kombinacji OVEN_SIZE i TABLE_SIZE (>5 || <5) liczba slotow nie zostaje przekroczona

@@ -18,7 +18,7 @@
 #include <sys/sem.h>
 
 //SEMAPHORES
-#define IN_OVEN 1
+#define IN_OVEN 0
 #define TAKE_OUT_OVEN 1
 #define PUT_IN_OVEN 2
 #define ON_TABLE 3
@@ -82,10 +82,8 @@ int getSharedMemoryID(){
 }
 
 char* getTime(){
-    time_t now=time(NULL);
-    char * time=asctime(gmtime(&now));
-    time[strlen(time)-1]='\0';
-    return time;
+    time_t timeNow=time(NULL);
+    return asctime(gmtime(&timeNow));
 }
 
 void lock(int id,int number){
@@ -107,10 +105,5 @@ void unlock(int id,int number){
         exit(1);
     }
 }
-
-
-
-
-
 
 #endif
