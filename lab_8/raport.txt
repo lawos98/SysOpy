@@ -1,0 +1,75 @@
+Thread: 0 Time: 17.660000
+All time: 21.550000 
+Thread: 0 Time: 37.540000
+Thread: 1 Time: 29.760000
+All time: 43.500000 
+Thread: 0 Time: 113.110000
+Thread: 1 Time: 82.290000
+Thread: 2 Time: 63.020000
+Thread: 3 Time: 34.820000
+All time: 114.730000 
+Thread: 0 Time: 206.300000
+Thread: 1 Time: 140.530000
+Thread: 2 Time: 128.430000
+Thread: 3 Time: 110.010000
+Thread: 4 Time: 86.980000
+Thread: 5 Time: 73.050000
+Thread: 6 Time: 57.650000
+Thread: 7 Time: 63.100000
+All time: 208.590000 
+Thread: 0 Time: 122.310000
+Thread: 1 Time: 22.520000
+Thread: 2 Time: 121.390000
+Thread: 3 Time: 48.620000
+Thread: 4 Time: 111.660000
+Thread: 5 Time: 55.030000
+Thread: 6 Time: 109.300000
+Thread: 7 Time: 113.680000
+Thread: 8 Time: 80.270000
+Thread: 9 Time: 104.170000
+Thread: 10 Time: 115.920000
+Thread: 11 Time: 67.330000
+Thread: 12 Time: 61.000000
+Thread: 13 Time: 51.440000
+Thread: 14 Time: 18.080000
+Thread: 15 Time: 16.340000
+All time: 383.860000 
+
+
+
+Thread: 0 Time: 14.400000
+All time: 17.560000 
+Thread: 0 Time: 18.480000
+Thread: 1 Time: 25.660000
+All time: 30.700000 
+Thread: 0 Time: 22.120000
+Thread: 1 Time: 14.550000
+Thread: 2 Time: 25.740000
+Thread: 3 Time: 17.990000
+All time: 28.450000 
+Thread: 0 Time: 18.580000
+Thread: 1 Time: 17.840000
+Thread: 2 Time: 19.490000
+Thread: 3 Time: 16.930000
+Thread: 4 Time: 17.010000
+Thread: 5 Time: 5.740000
+Thread: 6 Time: 20.490000
+Thread: 7 Time: 4.090000
+All time: 41.820000 
+Thread: 0 Time: 13.600000
+Thread: 1 Time: 9.250000
+Thread: 2 Time: 17.800000
+Thread: 3 Time: 9.880000
+Thread: 4 Time: 14.880000
+Thread: 5 Time: 14.080000
+Thread: 6 Time: 19.240000
+Thread: 7 Time: 11.070000
+Thread: 8 Time: 16.160000
+Thread: 9 Time: 19.580000
+Thread: 10 Time: 23.980000
+Thread: 11 Time: 14.040000
+Thread: 12 Time: 10.390000
+Thread: 13 Time: 10.130000
+Thread: 14 Time: 7.470000
+Thread: 15 Time: 9.490000
+All time: 54.370000 
