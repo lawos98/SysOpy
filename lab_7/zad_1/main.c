@@ -12,6 +12,8 @@ int createSharedMemory() {
     }
     key += 1;
     int sharedMemoryId = semget(key, 6, 0777 | IPC_CREAT);
+    printf("%d",semctl(sharedMemoryId, 0, GETVAL, NULL));
+
     if (sharedMemoryId < 0) {
         printf("Error with shared memory\n");
         exit(1);
